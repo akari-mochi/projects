@@ -1,3 +1,4 @@
 # hello-world
 
-I just tried to change the content of README.
+Hello.
+I'm learning Freeglut using VSCode in Linux currently.
